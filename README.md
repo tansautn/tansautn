@@ -1,6 +1,6 @@
 <a href="http://zuko.pro/">
-    <img src="https://avatars0.githubusercontent.com/u/6666271?v=3&s=96" alt="Z-Logo"
-         title="I'M Z U K O" align="right" />
+    <img src="https://zuko.pro/zuko_disco_centered.svg?t=1" alt="Z-Logo"
+         title="I'M Z U K O" align="right" max-width="800" />
 </a>
 <p align="center" dir="auto">
 <img src="https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=600&size=24&pause=1000&color=A94049&center=true&vCenter=true&width=800&height=140&lines=%F0%9F%94%A5+Z+U+K+O++%5B%40tansautn%5D+%F0%9F%94%A5;%F0%9F%94%A5+Fullstack+Dev+%7C+10%2B+years+of+building+%26+breaking+%F0%9F%94%A5;%F0%9F%94%A5+JS%2C+PHP%2C+Python%2C+C%23%2C+Rust...+and+counting+%F0%9F%94%A5;%F0%9F%94%A5+Obsessed+with+workflow+automation+%F0%9F%94%A5;%F0%9F%92%A0+DJing+%26+Tech+Enthusiast+%F0%9F%92%A0;%F0%9F%92%A0+%F0%9D%94%BD%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9E+%F0%9F%86%85%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B0%EF%B8%8E%F0%9F%85%B7%F0%9F%85%BE%EF%B8%8E%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99+%E2%9D%A4%EF%B8%8F+%F0%9F%92%A0" alt="🔥 Z U K O [@tansautn] 🔥"/>
