@@ -60,30 +60,237 @@ Goal: Automate everything.
 
 ## 📦 MY Open Source Projects
 
-| Project | Description | Stack | State | Author |
-|---------|-------------|-------|-------|--------|
-| [pyside6-datatable-widget](https://github.com/ultra-bugs/pyside6-datatable-widget) ⭐5 | DataTable widget (jQuery DataTable-style) for PySide6 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [pyside-base](https://github.com/ultra-bugs/pyside-base) ⭐3 | PySide6 app base template — Observer Pattern + Qt Designer | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [vconcat](https://github.com/tansautn/vconcat) | simple command-line tool designed to merge multiple videos into a single video as FAST as possible.  | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | ✅ |
-| [r2-web-manager](https://github.com/tansautn/r2-web-manager) ⭐3 | File manager for Cloudflare R2 (S3-compatible), runs on CF Worker | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [flex2cell](https://github.com/ultra-bugs/flex2cell) ⭐2 | Excel export library (XLS/XLSX) for PHP — minimal dependencies | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | ✅ |
-| [rsync-win](https://github.com/tansautn/rsync-win) ⭐2 | Rsync for Windows. [CURRENTLY ACTIVE MAINTAINED FORK]  | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | 🤝 |
-| [leveldb-viewer](https://github.com/tansautn/leveldb-viewer) ⭐1 | Native LevelDB Viewer Application. Ứng dụng xem CSDL LevelDB trên Desktop   | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | ✅ |
-| [darkwave-visualizer-player](https://github.com/tansautn/darkwave-visualizer-player) ⭐1 | Browser music player focused on audio quality & atmosphere | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=rust&logoColor=black) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [sofir](https://github.com/tansautn/sofir) ⭐1 | "Sofer" — a system-level companion tool | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![WIP](https://img.shields.io/badge/WIP-f59e0b?style=flat-square) | ✅ |
-| [terix](https://github.com/tansautn/terix) ⭐1 | This is Scaffold for a "vibe-coded native application  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![WIP](https://img.shields.io/badge/WIP-f59e0b?style=flat-square) | ✅ |
-| [syncro-sheet](https://github.com/ultra-bugs/syncro-sheet) ⭐1 | Laravel package: sync Eloquent models ↔ Google Sheets | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | ✅ |
-| [sh-repo](https://github.com/ultra-bugs/sh-repo) ⭐1 | Shell script collection — fast Unix automation | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [web-extension-template](https://github.com/ultra-bugs/web-extension-template) ⭐1 | Cross-browser Web Extension template (Firefox + Chromium) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Stable](https://img.shields.io/badge/Stable-3b82f6?style=flat-square) | ✅ |
-| [ffpm](https://github.com/7pvd/ffpm) | Firefox Profile Manager — import/export + directory change monitor | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | ✅ |
-| [yt-2dlp-ext](https://github.com/7pvd/yt-2dlp-ext) | Browser extension: bring yt-dlp power into Firefox/Chrome UI | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![WIP](https://img.shields.io/badge/WIP-f59e0b?style=flat-square) | ✅ |
+<table>
+<thead>
+<tr>
+  <th>Project</th>
+  <th>Description</th>
+  <th>Stack</th>
+  <th>State</th>
+  <th>Authored ?</th>
+</tr>
+</thead>
+<tbody>
+
+<!-- ==========================================
+     CATEGORY 1: BACKEND, CLOUD & PHP ECOSYSTEM 
+     ========================================== -->
+<tr>
+  <td colspan="5"><b>☁️ Backend, Cloud & PHP Ecosystem</b></td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/r2-web-manager">r2-web-manager</a> ⭐3</td>
+  <td>File manager for Cloudflare R2 (S3-compatible), runs on CF Worker</td>
+  <td nowrap><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/laravel-bit-masks">laravel-bit-masks</a></td>
+  <td>Clean, efficient bitmask attribute handling for Laravel Eloquent models</td>
+  <td nowrap><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/syncro-sheet">syncro-sheet</a> ⭐1</td>
+  <td>Laravel package: sync Eloquent models ↔ Google Sheets</td>
+  <td nowrap><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/flex2cell">flex2cell</a> ⭐2</td>
+  <td>Excel export library (XLS/XLSX) for PHP — minimal dependencies</td>
+  <td nowrap><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/magebay99/woocdn">woocdn</a></td>
+  <td>WordPress plugin to sync media library with DigitalOcean Spaces</td>
+  <td nowrap><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+
+<!-- ==========================================
+     CATEGORY 2: DESKTOP APPS & SYSTEM UTILITIES
+     ========================================== -->
+<tr>
+  <td colspan="5"><b>🖥️ Desktop Apps & System Utilities</b></td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/pyside6-datatable-widget">pyside6-datatable-widget</a> ⭐5</td>
+  <td>DataTable widget (jQuery DataTable-style) for PySide6</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+  </td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/pyside-base">pyside-base</a> ⭐3</td>
+  <td>PySide6 app base template — Observer Pattern + Qt Designer</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+  </td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/leveldb-viewer">leveldb-viewer</a> ⭐1</td>
+  <td>Native Desktop GUI Application for querying LevelDB databases</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+  </td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/terix">terix</a> ⭐1</td>
+  <td>Scaffold for optimized, "vibe-coded" native applications</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  </td>
+  <td><img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" alt="WIP"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/7pvd/ffpm">ffpm</a></td>
+  <td>Firefox Profile Manager — import/export + directory change monitor</td>
+  <td nowrap><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/sofir">sofir</a> ⭐1</td>
+  <td>"Sofer" — a system-level companion tool</td>
+  <td nowrap><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"></td>
+  <td><img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" alt="WIP"></td>
+  <td>✅</td>
+</tr>
+
+<!-- ==========================================
+     CATEGORY 3: WEB EXTENSIONS & FRONTEND
+     ========================================== -->
+<tr>
+  <td colspan="5"><b>🌐 Web Extensions & Frontend</b></td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/7pvd/yt-2dlp-ext">yt-2dlp-ext</a></td>
+  <td>Browser extension bringing yt-dlp power into active UI</td>
+  <td nowrap><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></td>
+  <td><img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" alt="WIP"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/web-extension-template">web-extension-template</a> ⭐1</td>
+  <td>Cross-browser Web Extension boilerplate (Firefox + Chromium)</td>
+  <td nowrap><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/monkey-scripts">monkey-scripts</a></td>
+  <td>Curated userscripts for web automation and UI enhancement</td>
+  <td nowrap><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/darkwave-visualizer-player">darkwave-visualizer-player</a> ⭐1</td>
+  <td>Browser music player focused on audio quality & atmosphere</td>
+  <td nowrap><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+
+<!-- ==========================================
+     CATEGORY 4: CLI, AUTOMATION & WORKFLOW
+     ========================================== -->
+<tr>
+  <td colspan="5"><b>⚡ CLI, Automation & Workflow Tools</b></td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/vconcat">vconcat</a></td>
+  <td>Blazing-fast CLI tool designed to seamlessly merge multiple videos</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
+  </td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/fpyglob">fpyglob</a></td>
+  <td>High-performance Python utility for rapid file globbing</td>
+  <td nowrap><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/ultra-bugs/sh-repo">sh-repo</a> ⭐1</td>
+  <td>Shell script collection for fast Unix system automation</td>
+  <td nowrap><img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/zukey">zukey</a></td>
+  <td>Custom key-management and utility tooling for development workflows</td>
+  <td nowrap><img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/zuko-ai-rules">zuko-ai-rules</a></td>
+  <td>Curated system rules & context prompts for optimized LLMs</td>
+  <td nowrap><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>✅</td>
+</tr>
+
+<!-- ==========================================
+     CATEGORY 5: CONTRIBUTED & MAINTAINED
+     ========================================== -->
+<tr>
+  <td colspan="5"><b>🤝 Contributed & Maintained</b></td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/rsync-win">rsync-win</a> ⭐2</td>
+  <td>Actively maintained Rsync fork bringing native support to Windows</td>
+  <td nowrap><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>🤝</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/coolsam726/filament-modules">filament-modules</a></td>
+  <td>Bridge integrating Filament Admin with nWidart/laravel-modules</td>
+  <td nowrap><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>🤝</td>
+</tr>
+<tr>
+  <td nowrap><a href="https://github.com/tansautn/hypeddit-downloadwall-bypasser-reloaded">hypeddit-downloadwall-bypasser-reloaded</a></td>
+  <td>Userscript to bypass fangates on Hypeddit and PumpYourSound</td>
+  <td nowrap><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></td>
+  <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
+  <td>🤝</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tansautn&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/tansautn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansautn&layout=compact&theme=dark&hide_border=true)](https://github.com/tansautn)
+<h3>C H Ỉ • L O • B Ạ N • T H I Ế U • V Ấ N • Đ Ề  .<br/>  Đ Ừ N G • L O • T Ô I • T H I Ế U • G I Ả I • P H Á P</h3>
 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5773007/zuko)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/l2f-vn)
