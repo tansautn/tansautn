@@ -170,7 +170,10 @@ Goal: Automate everything.
 <tr>
   <td nowrap><a href="https://github.com/tansautn/sofir">sofir</a> ⭐1</td>
   <td>"Sofer" — a system-level companion tool</td>
-  <td nowrap><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"></td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  </td>
   <td><img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" alt="WIP"></td>
   <td>✅</td>
 </tr>
@@ -228,8 +231,8 @@ Goal: Automate everything.
 </tr>
 <tr>
   <td nowrap><a href="https://github.com/tansautn/fpyglob">fpyglob</a></td>
-  <td>High-performance Python utility for rapid file globbing</td>
-  <td nowrap><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  <td>High-performance file globbing utility</td>
+  <td nowrap><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></td>
   <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
   <td>✅</td>
 </tr>
@@ -242,8 +245,11 @@ Goal: Automate everything.
 </tr>
 <tr>
   <td nowrap><a href="https://github.com/tansautn/zukey">zukey</a></td>
-  <td>Custom key-management and utility tooling for development workflows</td>
-  <td nowrap><img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"></td>
+  <td>AutoHotkey & shell automation scripts for Windows/Linux</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white" alt="AHK">
+    <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
+  </td>
   <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" alt="Active"></td>
   <td>✅</td>
 </tr>
