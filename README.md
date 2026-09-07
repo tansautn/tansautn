@@ -143,6 +143,15 @@ Goal: Automate everything.
   <td>✅</td>
 </tr>
 <tr>
+  <td nowrap><a href="https://github.com/ibsh/is_KeyFinder">is_KeyFinder</a> ⭐351</td>
+  <td>Musical key detection software for digital DJs, for Mac OSX and Windows</td>
+  <td nowrap>
+    <img src="https://img.shields.io/badge/Qt%2FC++-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+  </td>
+  <td><img src="https://img.shields.io/badge/Stable-3b82f6?style=flat-square" alt="Stable"></td>
+  <td>🤝</td>
+</tr>
+<tr>
   <td nowrap><a href="https://github.com/tansautn/leveldb-viewer">leveldb-viewer</a> ⭐1</td>
   <td>Native Desktop GUI Application for querying LevelDB databases</td>
   <td nowrap>
